@@ -2,7 +2,7 @@ import java.util.Collections;
 import java.util.*;
 
 public class subsetSums_I {
-
+//Recursion approach
     public static void main(String[] args) {
         int[] arr = {3,1};
         subsetSums_I sumsI = new subsetSums_I();
