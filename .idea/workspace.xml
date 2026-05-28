@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebcf12e1-2c56-4463-8331-8cd6aaaec0db" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/checkIfStringIsPalindrom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/longestPalindromSubstring1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/twoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/twoSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,10 +26,10 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3D4KLBtRm3xiWX7uFwU3ozxPVFO" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -47,6 +45,7 @@
     "Application.LongestPalindromSubstring.executor": "Run",
     "Application.checkIfStringIsPalindrom.executor": "Run",
     "Application.longestPalindromSubstring1.executor": "Run",
+    "Application.twoSum.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -75,6 +74,8 @@
       <option name="presentableId" value="Default" />
       <updated>1777535846151</updated>
       <workItem from="1779461110255" duration="2635000" />
+      <workItem from="1779877744347" duration="385000" />
+      <workItem from="1779943741294" duration="2941000" />
     </task>
     <servers />
   </component>
